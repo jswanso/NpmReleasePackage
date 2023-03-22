@@ -1,0 +1,23 @@
+{
+  "name": "npmreleasepackage",
+  "version": "0.0.1",
+  "description": "Test npm package on GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jswanso/NpmReleasePackage.git"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "author": "Justin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jswanso/NpmReleasePackage/issues"
+  },
+  "homepage": "https://github.com/jswanso/NpmReleasePackage#readme"
+}
