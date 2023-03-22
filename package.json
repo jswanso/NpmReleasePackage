@@ -1,5 +1,5 @@
 {
-  "name": "npmreleasepackage",
+  "name": "@jswanso/npmreleasepackage",
   "version": "0.0.5-alpha",
   "description": "Test npm package on GitHub",
   "main": "index.js",
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jswanso/NpmReleasePackage#readme",
   "publishConfig": {
-    "registry": "https://npm.github.com"
+    "@jswanso:registry": "https://npm.pkg.github.com"
   }
 }

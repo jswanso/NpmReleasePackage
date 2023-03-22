@@ -15,3 +15,9 @@ Commands to create the .npmrc file
 `npm config set @jswanso:registry=https://npm.pkg.github.com`
 
 `mv C:\Users\<User Name>\.npmrc .npmrc`
+
+## Resources
+
+The following video helped clarify some of the settings.
+
+[How to use the GitHub Package Registry](https://www.youtube.com/watch?v=2-77KhGWlRg)
