@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jswanso/NpmReleasePackage#readme",
   "publishConfig": {
-    "@jswanso:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.github.com"
   }
 }
