@@ -1,6 +1,6 @@
 {
   "name": "@jswanso/npmreleasepackage",
-  "version": "0.0.5-alpha",
+  "version": "0.0.6-alpha",
   "description": "Test npm package on GitHub",
   "main": "index.js",
   "scripts": {
