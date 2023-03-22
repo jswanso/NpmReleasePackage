@@ -1,6 +1,6 @@
 {
   "name": "npmreleasepackage",
-  "version": "0.0.1",
+  "version": "0.0.3-alpha",
   "description": "Test npm package on GitHub",
   "main": "index.js",
   "scripts": {
