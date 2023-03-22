@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jswanso/NpmReleasePackage/issues"
   },
-  "homepage": "https://github.com/jswanso/NpmReleasePackage#readme"
+  "homepage": "https://github.com/jswanso/NpmReleasePackage#readme",
+  "publishConfig": {
+    "@jswanso:registry": "https://npm.pkg.github.com"
+  }
 }
